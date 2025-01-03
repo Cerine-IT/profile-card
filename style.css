@@ -1,4 +1,4 @@
-/* Importation de la police */
+/* police */
 body {
   margin: 0;
   padding: 0;
@@ -21,7 +21,7 @@ body {
   text-align: center;
 }
 
-/* Section de l'en-tête */
+/* Section de l'en tete */
 .profile-header {
   background: url('bg-pattern-card.svg') no-repeat center;
   background-size: cover;
@@ -41,7 +41,7 @@ body {
   transform: translateX(-50%);
 }
 
-/* Texte du corps */
+/* Texte du body */
 .profile-body h1 {
   font-size: 18px;
   font-weight: 700;
@@ -60,7 +60,7 @@ body {
   margin: 5px 0 20px 0;
 }
 
-/* Section des statistiques */
+/* Section des stats */
 .profile-stats {
   display: flex;
   justify-content: space-around;
